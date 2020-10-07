@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michiel Proost</h1>
 <h3 align="center">An engineering student in the branch of electronics and ICT. Over the past couple of months, I fell in love with programming.</h3>
 
-- 🔭 I’m currently working on [Perfect Plate](https://github.com/MichielProost/Perfect-Plate)
+- 🔭 I’m currently working on [Perfect Plate](https://github.com/MichielProost/Perfect-Plate) and [3D Engine using Raytracing](https://github.com/MichielProost/Raytracing3DEngine)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MichielProost?tab=repositories](https://github.com/MichielProost?tab=repositories)
 
